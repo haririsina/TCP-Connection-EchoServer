@@ -2,7 +2,7 @@
 
 Code is in java
 
-Establishe and test A TCP connection with EchoSever.
+Establish and test A TCP connection with EchoSever.
 Telnet is used as a client to connect to server localhost (or your desired IP)
 
 Three kinds of EchoServer is provided:
